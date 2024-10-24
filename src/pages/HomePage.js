@@ -8,6 +8,8 @@ const HomePage = () => {
     <div>
         <Header />
         <SubHeader />
+        <button>categories page</button>
+        <button>productlist page</button>
         <Footer />
     </div>
   )
