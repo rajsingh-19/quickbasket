@@ -1,0 +1,13 @@
+.productCard {
+    background-color: blue;
+    width: 200px;
+    height: 380px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.placeholderImg {
+    width: 95%;
+    height: 280px;
+}

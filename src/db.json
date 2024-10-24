@@ -1,0 +1,32 @@
+{
+    "data" : [
+        {
+            "productId": "a1",
+            "price": 500,
+            "dicsountedPrice": 350,
+            "title": "Oreo Biscuit",
+            "thumbnail": "placeholder.png"
+        },
+        {
+            "productId": "a1",
+            "price": 500,
+            "dicsountedPrice": 350,
+            "title": "Oreo Biscuit",
+            "thumbnail": "placeholder.png"
+        },
+        {
+            "productId": "a1",
+            "price": 500,
+            "dicsountedPrice": 350,
+            "title": "Oreo Biscuit",
+            "thumbnail": "placeholder.png"
+        },
+        {
+            "productId": "a1",
+            "price": 500,
+            "dicsountedPrice": 350,
+            "title": "Oreo Biscuit",
+            "thumbnail": "placeholder.png"
+        }
+    ]
+}
